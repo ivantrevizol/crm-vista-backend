@@ -1,2 +1,2 @@
-# crm-vista-backend
-crm-vista-backend
+# CRM Vista CX Backend
+FastAPI + MongoDB Atlas
